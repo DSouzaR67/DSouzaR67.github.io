@@ -1,7 +1,7 @@
 # Luis Daniel Souza Rodriguez
 
 
-![alt text](https://github.com/DSouzaR67/DSouzaR67.github.io/blob/main/devopsBBVA2.png)
+![alt text](https://github.com/DSouzaR67/DSouzaR67.github.io/blob/main/devopsBBVA2.jpg)
 
 <br>
 Maestría en Ciencia de Datos de Posgrados CUCEA de la Universidad de Guadalajara.  
